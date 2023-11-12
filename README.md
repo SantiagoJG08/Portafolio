@@ -1,13 +1,13 @@
 
 <div align="center">
-  <img  src="https://media.giphy.com/media/Sv9vZVdyneVvq/giphy.gif"
+  <img  src="https://media.giphy.com/media/800iiDTaNNFOwytONV/giphy.gif"
        alt="snake" /></a>
 </div>
 <br>
 
 # 💫 About Me:
 <a target="_blank" align="center">
-  <img align="right" top="500" height="290" width="500" alt="GIF" src="https://giphy.com/gifs/hamlet-drake-computers-laptop-800iiDTaNNFOwytONV">
+  <img align="right" top="400" height="400" width="400" alt="GIF" src="https://i.pinimg.com/originals/5a/10/a8/5a10a8ddb87313729f2ab391a32aeec4.jpg">
 </a>
 💡 Studiyng computer engineering<br>
 👨‍💻 I study at the Universidad de Guadalajara.<br>
