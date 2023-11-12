@@ -1,6 +1,18 @@
-# Portafolio
+
+<div align="center">
+  <img  src="https://media.giphy.com/media/Sv9vZVdyneVvq/giphy.gif"
+       alt="snake" /></a>
+</div>
+<br>
+
 # 💫 About Me:
-💡 Estudiando Ingenieria en Computacion<br>👨‍💻 Estudio en la Univerdiad de Guadalajara.<br>🎵🎼 Me gusta la música.<br>🇲🇽 Soy de Mexico.<br>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="290" width="500" alt="GIF" src="https://giphy.com/gifs/hamlet-drake-computers-laptop-800iiDTaNNFOwytONV">
+</a>
+💡 Studiyng computer engineering<br>
+👨‍💻 I study at the Universidad de Guadalajara.<br>
+🎵🎼 I love music.<br>
+🇲🇽 I am from Mexico.<br>
 
 
 # 💻 Tech Stack:
