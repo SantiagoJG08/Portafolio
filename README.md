@@ -4,8 +4,7 @@
 
 💡 Studiyng computer engineering<br>
 👨‍💻 I study at the Universidad de Guadalajara.<br>
-🎵🎼 I love music.<br>
-🇲🇽 I am from Mexico.<br>
+
 
 
 # 💻 Tech Stack:
