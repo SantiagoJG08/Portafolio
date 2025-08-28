@@ -1,9 +1,4 @@
 
-<div align="center">
-  <img  src="https://media.giphy.com/media/800iiDTaNNFOwytONV/giphy.gif"
-       alt="snake" /></a>
-</div>
-<br>
 
 # 💫 About Me:
 <a target="_blank" align="center">
